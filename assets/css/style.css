@@ -1385,9 +1385,7 @@ h1 span{
     width: 100%;
 }
 
-.slider-btn {
-    display: none;
-}
+
 
 .dosen-grid{
     display: grid;
@@ -1745,48 +1743,5 @@ h1 span{
     .dosen-filter {
         width: 100%;
     }
-    .dosen-grid {
-        display: flex;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        scroll-snap-type: x mandatory;
-        -ms-overflow-style: none;
-        scrollbar-width: none;
-        justify-content: flex-start;
-        padding-top: 32px;
-        padding-bottom: 32px;
-        padding-left: calc(50% - clamp(140px, 45vw, 165px));
-        padding-right: calc(50% - clamp(140px, 45vw, 165px));
-    }
-    .dosen-grid::-webkit-scrollbar {
-        display: none;
-    }
-    .dosen-card {
-        flex: 0 0 auto;
-        scroll-snap-align: center;
-    }
-    
-    .slider-btn {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        z-index: 10;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        background-color: #D6C26A;
-        color: #1E1E1E;
-        border: none;
-        cursor: pointer;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-    .prev-btn {
-        left: -15px;
-    }
-    .next-btn {
-        right: -15px;
-    }
+
 }
