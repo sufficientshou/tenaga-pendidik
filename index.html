@@ -219,6 +219,7 @@
                             <div class="dropdown-option active">Semua Dosen</div>
                             <div class="dropdown-option">Dosen Informatika</div>
                             <div class="dropdown-option">Dosen Sistem Informasi</div>
+                            <div class="dropdown-option">Staff Tata Usaha</div>
                         </div>
                     </div>
                 </div>
@@ -377,85 +378,7 @@
 
     </div>
     
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const dropdown = document.querySelector(".custom-dropdown");
-            const searchInput = document.getElementById("searchInput");
-            const dosenCards = document.querySelectorAll(".dosen-card");
 
-            function filterCards() {
-                const query = searchInput ? searchInput.value.toLowerCase() : "";
-                const category = dropdown ? dropdown.querySelector(".dropdown-selected span").innerHTML.trim().toLowerCase() : "semua dosen";
-
-                let matchCount = 0;
-                dosenCards.forEach(card => {
-                    const titleH2 = card.querySelector(".dosen-card-title h2");
-                    const titleP = card.querySelector(".dosen-card-title p");
-                    if(!titleH2 || !titleP) return;
-
-                    const name = titleH2.textContent.toLowerCase();
-                    const specialty = titleP.textContent.toLowerCase();
-                    
-                    const matchesSearch = name.includes(query) || specialty.includes(query);
-                    const matchesCategory = category === "semua dosen" || specialty.includes(category);
-
-                    if (matchesSearch && matchesCategory) {
-                        card.style.display = "flex";
-                        matchCount++;
-                    } else {
-                        card.style.display = "none";
-                    }
-                });
-
-                const notFoundEl = document.getElementById("dosenNotFound");
-                const sliderWrapper = document.querySelector(".dosen-slider-wrapper");
-                
-                if (notFoundEl && sliderWrapper) {
-                    if (matchCount === 0) {
-                        sliderWrapper.style.display = "none";
-                        notFoundEl.style.display = "flex";
-                    } else {
-                        sliderWrapper.style.display = "";
-                        notFoundEl.style.display = "none";
-                    }
-                }
-            }
-
-            if(dropdown) {
-                const selected = dropdown.querySelector(".dropdown-selected");
-                const selectedText = dropdown.querySelector(".dropdown-selected span");
-                const optionsContainer = dropdown.querySelector(".dropdown-options");
-                const optionsList = dropdown.querySelectorAll(".dropdown-option");
-
-                selected.addEventListener("click", () => {
-                    optionsContainer.classList.toggle("active");
-                    selected.classList.toggle("active");
-                });
-
-                optionsList.forEach(o => {
-                    o.addEventListener("click", () => {
-                        selectedText.innerHTML = o.innerHTML;
-                        optionsContainer.classList.remove("active");
-                        selected.classList.remove("active");
-                        optionsList.forEach(opt => opt.classList.remove("active"));
-                        o.classList.add("active");
-                        filterCards();
-                    });
-                });
-
-                window.addEventListener("click", function(e) {
-                    if (!dropdown.contains(e.target)) {
-                        optionsContainer.classList.remove("active");
-                        selected.classList.remove("active");
-                    }
-                });
-            }
-
-            if(searchInput) {
-                searchInput.addEventListener("input", filterCards);
-            }
-        });
-    </script>
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/scrollbar.js"></script>
     <script src="assets/js/script.js"></script>

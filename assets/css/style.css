@@ -21,6 +21,7 @@ body {
 	outline:none;
 	font-size: 100%;
 	line-height: inherit;
+	background-color: #162E2B;
 }
 h1, h2, h3, h4, h5, h6 {
     font-size: inherit;
