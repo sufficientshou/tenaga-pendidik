@@ -417,7 +417,7 @@ const lecturers = [
         nidn: "196909272021211002",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/TaupikP.png"
     },
     {
         name: "Ade Mulyadi, S.Pd.",
@@ -426,7 +426,7 @@ const lecturers = [
         nidn: "198204282021211005",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/AdeMul.png"
     },
     {
         name: "Ginanjar Mulya Hendarsyah, S.E., M.M.",
@@ -435,7 +435,7 @@ const lecturers = [
         nidn: "198810062021211001",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/ginanjar.png"
     },
     {
         name: "Muhammad Rizki Fauzi Suharto, S.Pd.",
@@ -444,7 +444,7 @@ const lecturers = [
         nidn: "199111052021211001",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/muh rizki.jpg"
     },
     {
         name: "Riga Karamudi, S.Pd.",
@@ -453,7 +453,7 @@ const lecturers = [
         nidn: "199008212025211042",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/riga.png"
     },
     {
         name: "Wahyu Darmawan, S.E., M.H.",
@@ -462,7 +462,7 @@ const lecturers = [
         nidn: "198207272025211060",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/wahyu.png"
     },
     {
         name: "Bagas",
@@ -471,7 +471,7 @@ const lecturers = [
         nidn: "199807022025211038",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/Bagas.png"
     },
     {
         name: "Mahpud, S. Pd",
@@ -480,7 +480,7 @@ const lecturers = [
         nidn: "198305192025211039",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/Mahpud.png"
     },
     {
         name: "Suhendri",
@@ -489,7 +489,7 @@ const lecturers = [
         nidn: "198305212025211025",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/suhendri.png"
     },
     {
         name: "Asep Kosasih",
@@ -498,7 +498,7 @@ const lecturers = [
         nidn: "198306072025211068",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/Asep.png"
     },
     {
         name: "Gebby Dwi Putri Haryanto, S.Kom.",
@@ -507,7 +507,7 @@ const lecturers = [
         nidn: "-",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/geby.png"
     },
     {
         name: "Salwa Nur Atifah, S.Kom.",
@@ -516,7 +516,7 @@ const lecturers = [
         nidn: "-",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/icon/dosen-placeholder.svg"
+        image: "assets/img/dosen/salwa.png"
     }
 ];
 
