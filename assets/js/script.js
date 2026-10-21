@@ -156,259 +156,259 @@ const lecturers = [
         role: "Dosen Sistem Informasi",
         nidn: "0402047903",
         email: "adeandri@unsika.ac.id",
-        image: "assets/img/dosen/PA ADE ANDRI.png"
+        image: "assets/img/dosen/PA ADE ANDRI.webp"
     },
     {
         name: "Adhi Rizal, S.Pd., M.T.",
         role: "Dosen Informatika",
         nidn: "0007089101",
         email: "adhi.rizal@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ADHI.png"
+        image: "assets/img/dosen/PA ADHI.webp"
     },
     {
         name: "Agung Susilo Yuda Irawan, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0015069302",
         email: "agung@unsika.ac.id",
-        image: "assets/img/dosen/PA AGUNG.png"
+        image: "assets/img/dosen/PA AGUNG.webp"
     },
     {
         name: "Aji Primajaya, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0026048706",
         email: "aji.primajaya@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA AJI.png"
+        image: "assets/img/dosen/PA AJI.webp"
     },
     {
         name: "Apriade Voutama, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0004049401",
         email: "apriade.voutama@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA APRIADE.png"
+        image: "assets/img/dosen/PA APRIADE.webp"
     },
     {
         name: "Aries Suharso, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0422037701",
         email: "aries.suharso@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ARIES.png"
+        image: "assets/img/dosen/PA ARIES.webp"
     },
     {
         name: "Arip Solehudin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0016048902",
         email: "arip.solehudin@unsika.ac.id",
-        image: "assets/img/dosen/PA ARIF.png"
+        image: "assets/img/dosen/PA ARIF.webp"
     },
     {
         name: "Asep Jamaludin, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0010017606",
         email: "asep.jamaludin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ASEP.png"
+        image: "assets/img/dosen/PA ASEP.webp"
     },
     {
         name: "Azhari Ali Ridha, S.Kom., MMSI.",
         role: "Dosen Sistem Informasi",
         nidn: "0415098003",
         email: "azhari.ali@unsika.ac.id",
-        image: "assets/img/dosen/PA AZHARI.png"
+        image: "assets/img/dosen/PA AZHARI.webp"
     },
     {
         name: "Betha Nurina Sari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0023108901",
         email: "betha.nurina@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU BETHA.png"
+        image: "assets/img/dosen/BU BETHA.webp"
     },
     {
         name: "Carudin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0013048804",
         email: "carudin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA CARUDIN.png"
+        image: "assets/img/dosen/PA CARUDIN.webp"
     },
     {
         name: "Chaerur Rozikin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0020058305",
         email: "chaerur.rozikin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA CHAERUR.png"
+        image: "assets/img/dosen/PA CHAERUR.webp"
     },
     {
         name: "Dadang Yusup, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0424048202",
         email: "dadang.dyf@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA DADANG.png"
+        image: "assets/img/dosen/PA DADANG.webp"
     },
     {
         name: "Didi Juardi, S.T., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0422047101",
         email: "didi.juardi@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA DIDI.png"
+        image: "assets/img/dosen/PA DIDI.webp"
     },
     {
         name: "Dr. Oman Komarudin, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0406047702",
         email: "oman@unsika.ac.id",
-        image: "assets/img/dosen/PA OMAN.png"
+        image: "assets/img/dosen/PA OMAN.webp"
     },
     {
         name: "E. Haodudin Nurkifli, M.Cs., Ph.D.",
         role: "Dosen Informatika",
         nidn: "0003048503",
         email: "dudi.nurkifli@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA HAO.png"
+        image: "assets/img/dosen/PA HAO.webp"
     },
     {
         name: "Garno, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0029017806",
         email: "garno@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA GARNO.png"
+        image: "assets/img/dosen/PA GARNO.webp"
     },
     {
         name: "H. Bagja Nugraha, S.T., M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0012108501",
         email: "bagja.nugraha@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA BAGJA.png"
+        image: "assets/img/dosen/PA BAGJA.webp"
     },
     {
         name: "Hannie, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0430088205",
         email: "hannie@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU HANNIE.png"
+        image: "assets/img/dosen/BU HANNIE.webp"
     },
     {
         name: "Intan Purnamasari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0006029201",
         email: "intan.purnamasari@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU INTAN.png"
+        image: "assets/img/dosen/BU INTAN.webp"
     },
     {
         name: "Iqbal Maulana, S.Si., M.Sc.",
         role: "Dosen Informatika",
         nidn: "0012029105",
         email: "iqbal.maulana@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA IQBAL.png"
+        image: "assets/img/dosen/PA IQBAL.webp"
     },
     {
         name: "Jajam Haerul Jaman, S.E., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0010117808",
         email: "jajam.haeruljaman@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA JAJAM.png"
+        image: "assets/img/dosen/PA JAJAM.webp"
     },
     {
         name: "Kamal Prihandani, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0002069106",
         email: "kamal.prihandani@unsika.ac.id",
-        image: "assets/img/dosen/PA KAMAL.png"
+        image: "assets/img/dosen/PA KAMAL.webp"
     },
     {
         name: "M. Jajuli, M.Si.",
         role: "Dosen Informatika",
         nidn: "0404128701",
         email: "mohamad.jajuli@unsika.ac.id",
-        image: "assets/img/dosen/PA JAJULI.png"
+        image: "assets/img/dosen/PA JAJULI.webp"
     },
     {
         name: "Nina Sulistiyowati, S.T., M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "000902830",
         email: "nina.sulistiyowati@unsika.ac.id",
-        image: "assets/img/dosen/BU NINA.png"
+        image: "assets/img/dosen/BU NINA.webp"
     },
     {
         name: "Nono Heryana, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0003038905",
         email: "nono@unsika.ac.id",
-        image: "assets/img/dosen/PA NONO.png"
+        image: "assets/img/dosen/PA NONO.webp"
     },
     {
         name: "Purwantoro, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0408117702",
         email: "purwantoro.masbro@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA PUR.png"
+        image: "assets/img/dosen/PA PUR.webp"
     },
     {
         name: "Ratna Mufidah, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0004068708",
         email: "ratna.mufidah@cs.unsika.ac.id",
-        image: "assets/img/dosen/BU RATNA.png"
+        image: "assets/img/dosen/BU RATNA.webp"
     },
     {
         name: "Rini Mayasari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0028059101",
         email: "rini.mayasari@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU RINI.png"
+        image: "assets/img/dosen/BU RINI.webp"
     },
     {
         name: "Riza Ibnu Adam, M.Si.",
         role: "Dosen Informatika",
         nidn: "0006119002",
         email: "riza.adam@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA RIZA.png"
+        image: "assets/img/dosen/PA RIZA.webp"
     },
     {
         name: "Siska, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0030109004",
         email: "siska@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU SISKA.png"
+        image: "assets/img/dosen/BU SISKA.webp"
     },
     {
         name: "Sofi Defiyanti, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0413128502",
         email: "sofi.defiyanti@unsika.ac.id",
-        image: "assets/img/dosen/BU SOFI.png"
+        image: "assets/img/dosen/BU SOFI.webp"
     },
     {
         name: "Susilawati, M.Si.",
         role: "Dosen Informatika",
         nidn: "0018019002",
         email: "susilawati.sobur@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU SUSILAWATI.png"
+        image: "assets/img/dosen/BU SUSILAWATI.webp"
     },
     {
         name: "Taufik Ridwan, S.T., M.T.",
         role: "Dosen Sistem Informasi",
         nidn: "0006079201",
         email: "taufik.ridwan@cs.unsika.ac.id",
-        image: "assets/img/dosen/PA TAUFIQ.png"
+        image: "assets/img/dosen/PA TAUFIQ.webp"
     },
     {
         name: "Tesa Nur Padilah, S.Si., M.Sc.",
         role: "Dosen Informatika",
         nidn: "0019109001",
         email: "tesa.nurpadilah@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU TESA.png"
+        image: "assets/img/dosen/BU TESA.webp"
     },
     {
         name: "Ultach Enri, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0001018108",
         email: "ultach@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU ULTACH.png"
+        image: "assets/img/dosen/BU ULTACH.webp"
     },
     {
         name: "Yuyun Umaidah, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0005088303",
         email: "yuyun.umaidah@unsika.ac.id",
-        image: "assets/img/dosen/BU YUYUN.png"
+        image: "assets/img/dosen/BU YUYUN.webp"
     },
     {
         name: "Taufiq Paribo Pane, S.T.",
@@ -417,7 +417,7 @@ const lecturers = [
         nidn: "196909272021211002",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/TaupikP.png"
+        image: "assets/img/dosen/TaupikP.webp"
     },
     {
         name: "Ade Mulyadi, S.Pd.",
@@ -426,7 +426,7 @@ const lecturers = [
         nidn: "198204282021211005",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/AdeMul.png"
+        image: "assets/img/dosen/AdeMul.webp"
     },
     {
         name: "Ginanjar Mulya Hendarsyah, S.E., M.M.",
@@ -435,7 +435,7 @@ const lecturers = [
         nidn: "198810062021211001",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/ginanjar.png"
+        image: "assets/img/dosen/ginanjar.webp"
     },
     {
         name: "Muhammad Rizki Fauzi Suharto, S.Pd.",
@@ -444,7 +444,7 @@ const lecturers = [
         nidn: "199111052021211001",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/muh rizki.jpg"
+        image: "assets/img/dosen/muh rizki.webp"
     },
     {
         name: "Riga Karamudi, S.Pd.",
@@ -453,7 +453,7 @@ const lecturers = [
         nidn: "199008212025211042",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/riga.png"
+        image: "assets/img/dosen/riga.webp"
     },
     {
         name: "Wahyu Darmawan, S.E., M.H.",
@@ -462,7 +462,7 @@ const lecturers = [
         nidn: "198207272025211060",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/wahyu.png"
+        image: "assets/img/dosen/wahyu.webp"
     },
     {
         name: "Bagas",
@@ -471,7 +471,7 @@ const lecturers = [
         nidn: "199807022025211038",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/Bagas.png"
+        image: "assets/img/dosen/Bagas.webp"
     },
     {
         name: "Mahpud, S. Pd",
@@ -480,7 +480,7 @@ const lecturers = [
         nidn: "198305192025211039",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/Mahpud.png"
+        image: "assets/img/dosen/Mahpud.webp"
     },
     {
         name: "Suhendri",
@@ -489,7 +489,7 @@ const lecturers = [
         nidn: "198305212025211025",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/suhendri.png"
+        image: "assets/img/dosen/suhendri.webp"
     },
     {
         name: "Asep Kosasih",
@@ -498,7 +498,7 @@ const lecturers = [
         nidn: "198306072025211068",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/Asep.png"
+        image: "assets/img/dosen/Asep.webp"
     },
     {
         name: "Gebby Dwi Putri Haryanto, S.Kom.",
@@ -507,7 +507,7 @@ const lecturers = [
         nidn: "-",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/geby.png"
+        image: "assets/img/dosen/geby.webp"
     },
     {
         name: "Salwa Nur Atifah, S.Kom.",
@@ -516,7 +516,7 @@ const lecturers = [
         nidn: "-",
         nidnLabel: "NIP",
         email: "-",
-        image: "assets/img/dosen/salwa.png"
+        image: "assets/img/dosen/salwa.webp"
     }
 ];
 
@@ -532,7 +532,9 @@ function createLecturerCard(lecturer) {
         <div class="dosen-card">
             <img class="dosen-card-image"
                  src="${imageSrc}"
-                 alt="${lecturer.name}">
+                 alt="${lecturer.name}"
+                 loading="lazy"
+                 decoding="async">
 
             <div class="dosen-card-content">
 
