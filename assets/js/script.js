@@ -156,259 +156,305 @@ const lecturers = [
         role: "Dosen Sistem Informasi",
         nidn: "0402047903",
         email: "adeandri@unsika.ac.id",
-        image: "assets/img/dosen/PA ADE ANDRI.webp"
+        image: "assets/img/dosen/PA ADE ANDRI.webp",
+        matkul: "Technopreneur"
     },
     {
         name: "Adhi Rizal, S.Pd., M.T.",
         role: "Dosen Informatika",
         nidn: "0007089101",
         email: "adhi.rizal@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ADHI.webp"
+        image: "assets/img/dosen/PA ADHI.webp",
+        matkul: "Sistem Operasi, Blockchain"
     },
     {
         name: "Agung Susilo Yuda Irawan, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0015069302",
         email: "agung@unsika.ac.id",
-        image: "assets/img/dosen/PA AGUNG.webp"
+        image: "assets/img/dosen/PA AGUNG.webp",
+        matkul: "Jaringan Komputer, A/B Testing"
     },
     {
         name: "Aji Primajaya, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0026048706",
         email: "aji.primajaya@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA AJI.webp"
+        image: "assets/img/dosen/PA AJI.webp",
+        matkul: "Capstone Project, Data Visualisasi"
     },
     {
         name: "Apriade Voutama, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0004049401",
         email: "apriade.voutama@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA APRIADE.webp"
+        image: "assets/img/dosen/PA APRIADE.webp",
+        matkul: "-"
     },
     {
         name: "Aries Suharso, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0422037701",
         email: "aries.suharso@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ARIES.webp"
+        image: "assets/img/dosen/PA ARIES.webp",
+        matkul: "Blockchain, Etika Profesi"
     },
     {
         name: "Arip Solehudin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0016048902",
         email: "arip.solehudin@unsika.ac.id",
-        image: "assets/img/dosen/PA ARIF.webp"
+        image: "assets/img/dosen/PA ARIF.webp",
+        matkul: "Cloud Computing"
     },
     {
         name: "Asep Jamaludin, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0010017606",
         email: "asep.jamaludin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA ASEP.webp"
+        image: "assets/img/dosen/PA ASEP.webp",
+        matkul: "Pengenalan Pemrograman, Database Administration"
     },
     {
         name: "Azhari Ali Ridha, S.Kom., MMSI.",
         role: "Dosen Sistem Informasi",
         nidn: "0415098003",
         email: "azhari.ali@unsika.ac.id",
-        image: "assets/img/dosen/PA AZHARI.webp"
+        image: "assets/img/dosen/PA AZHARI.webp",
+        matkul: "-"
     },
     {
         name: "Betha Nurina Sari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0023108901",
         email: "betha.nurina@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU BETHA.webp"
+        image: "assets/img/dosen/BU BETHA.webp",
+        matkul: "Basis Data, Data Mining"
     },
     {
         name: "Carudin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0013048804",
         email: "carudin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA CARUDIN.webp"
+        image: "assets/img/dosen/PA CARUDIN.webp",
+        matkul: "Interaksi Manusia dan Komputer, Etika Profesi"
     },
     {
         name: "Chaerur Rozikin, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0020058305",
         email: "chaerur.rozikin@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA CHAERUR.webp"
+        image: "assets/img/dosen/PA CHAERUR.webp",
+        matkul: "Internet of Things, Data Engineering"
     },
     {
         name: "Dadang Yusup, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0424048202",
         email: "dadang.dyf@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA DADANG.webp"
+        image: "assets/img/dosen/PA DADANG.webp",
+        matkul: "Pemrograman Berbasis Platform Web, Framework Pemrograman Web"
     },
     {
         name: "Didi Juardi, S.T., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0422047101",
         email: "didi.juardi@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA DIDI.webp"
+        image: "assets/img/dosen/PA DIDI.webp",
+        matkul: "Organisasi dan Arsitektur Komputer, Etika Profesi, Ethical Hacking"
     },
     {
         name: "Dr. Oman Komarudin, S.Si., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0406047702",
         email: "oman@unsika.ac.id",
-        image: "assets/img/dosen/PA OMAN.webp"
+        image: "assets/img/dosen/PA OMAN.webp",
+        matkul: "Pengenalan Pemrograman"
     },
     {
         name: "E. Haodudin Nurkifli, M.Cs., Ph.D.",
         role: "Dosen Informatika",
         nidn: "0003048503",
         email: "dudi.nurkifli@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA HAO.webp"
+        image: "assets/img/dosen/PA HAO.webp",
+        matkul: "Organisasi dan Arsitektur Komputer, Cloud Computing, Network Security, Kriptografi"
     },
     {
         name: "Garno, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0029017806",
         email: "garno@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA GARNO.webp"
+        image: "assets/img/dosen/PA GARNO.webp",
+        matkul: "Komputer dan Masyarakat"
     },
     {
         name: "H. Bagja Nugraha, S.T., M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0012108501",
         email: "bagja.nugraha@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA BAGJA.webp"
+        image: "assets/img/dosen/PA BAGJA.webp",
+        matkul: "-"
     },
     {
         name: "Hannie, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0430088205",
         email: "hannie@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU HANNIE.webp"
+        image: "assets/img/dosen/BU HANNIE.webp",
+        matkul: "-"
     },
     {
         name: "Intan Purnamasari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0006029201",
         email: "intan.purnamasari@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU INTAN.webp"
+        image: "assets/img/dosen/BU INTAN.webp",
+        matkul: "Algoritma Fundamental, Rekayasa Perangkat Lunak"
     },
     {
         name: "Iqbal Maulana, S.Si., M.Sc.",
         role: "Dosen Informatika",
         nidn: "0012029105",
         email: "iqbal.maulana@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA IQBAL.webp"
+        image: "assets/img/dosen/PA IQBAL.webp",
+        matkul: "Matematika Diskrit, Etika Profesi"
+    },
+    {
+        name: "Irfan Sriyono Putro, S.T., M.Si.",
+        role: "Dosen Informatika",
+        nidn: "199012092024061001",
+        nidnLabel: "NIP",
+        email: "irfan.sriyono@staff.unsika.ac.id",
+        image: "assets/img/dosen/PA IRFAN.webp",
+        matkul: "Matematika Diskrit, Pemrograman Berbasis Mobile, Internet of Things"
     },
     {
         name: "Jajam Haerul Jaman, S.E., M.Kom.",
         role: "Dosen Informatika",
         nidn: "0010117808",
         email: "jajam.haeruljaman@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA JAJAM.webp"
+        image: "assets/img/dosen/PA JAJAM.webp",
+        matkul: "Technopreneur, Data Mining, Rekayasa dan Manajemen Kebutuhan"
     },
     {
         name: "Kamal Prihandani, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0002069106",
         email: "kamal.prihandani@unsika.ac.id",
-        image: "assets/img/dosen/PA KAMAL.webp"
+        image: "assets/img/dosen/PA KAMAL.webp",
+        matkul: "Framework Pemrograman Web"
     },
     {
         name: "M. Jajuli, M.Si.",
         role: "Dosen Informatika",
         nidn: "0404128701",
         email: "mohamad.jajuli@unsika.ac.id",
-        image: "assets/img/dosen/PA JAJULI.webp"
+        image: "assets/img/dosen/PA JAJULI.webp",
+        matkul: "Technopreneur"
     },
     {
         name: "Nina Sulistiyowati, S.T., M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "000902830",
         email: "nina.sulistiyowati@unsika.ac.id",
-        image: "assets/img/dosen/BU NINA.webp"
+        image: "assets/img/dosen/BU NINA.webp",
+        matkul: "-"
     },
     {
         name: "Nono Heryana, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0003038905",
         email: "nono@unsika.ac.id",
-        image: "assets/img/dosen/PA NONO.webp"
+        image: "assets/img/dosen/PA NONO.webp",
+        matkul: "-"
     },
     {
         name: "Purwantoro, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0408117702",
         email: "purwantoro.masbro@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA PUR.webp"
+        image: "assets/img/dosen/PA PUR.webp",
+        matkul: "Pemrograman Berbasis Mobile"
     },
     {
         name: "Ratna Mufidah, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0004068708",
         email: "ratna.mufidah@cs.unsika.ac.id",
-        image: "assets/img/dosen/BU RATNA.webp"
+        image: "assets/img/dosen/BU RATNA.webp",
+        matkul: "Algoritma Fundamental, Data Visualisasi"
     },
     {
         name: "Rini Mayasari, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0028059101",
         email: "rini.mayasari@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU RINI.webp"
+        image: "assets/img/dosen/BU RINI.webp",
+        matkul: "Komputer dan Masyarakat, Penjaminan Mutu Perangkat Lunak (SQA)"
     },
     {
         name: "Riza Ibnu Adam, M.Si.",
         role: "Dosen Informatika",
         nidn: "0006119002",
         email: "riza.adam@staff.unsika.ac.id",
-        image: "assets/img/dosen/PA RIZA.webp"
+        image: "assets/img/dosen/PA RIZA.webp",
+        matkul: "Sistem Operasi, Etika Profesi"
     },
     {
         name: "Siska, M.Kom.",
         role: "Dosen Sistem Informasi",
         nidn: "0030109004",
         email: "siska@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU SISKA.webp"
+        image: "assets/img/dosen/BU SISKA.webp",
+        matkul: "-"
     },
     {
         name: "Sofi Defiyanti, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0413128502",
         email: "sofi.defiyanti@unsika.ac.id",
-        image: "assets/img/dosen/BU SOFI.webp"
+        image: "assets/img/dosen/BU SOFI.webp",
+        matkul: "Capstone Project, Data Engineering"
     },
     {
         name: "Susilawati, M.Si.",
         role: "Dosen Informatika",
         nidn: "0018019002",
         email: "susilawati.sobur@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU SUSILAWATI.webp"
+        image: "assets/img/dosen/BU SUSILAWATI.webp",
+        matkul: "Internet of Things"
     },
     {
         name: "Taufik Ridwan, S.T., M.T.",
         role: "Dosen Sistem Informasi",
         nidn: "0006079201",
         email: "taufik.ridwan@cs.unsika.ac.id",
-        image: "assets/img/dosen/PA TAUFIQ.webp"
+        image: "assets/img/dosen/PA TAUFIQ.webp",
+        matkul: "-"
     },
     {
         name: "Tesa Nur Padilah, S.Si., M.Sc.",
         role: "Dosen Informatika",
         nidn: "0019109001",
         email: "tesa.nurpadilah@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU TESA.webp"
+        image: "assets/img/dosen/BU TESA.webp",
+        matkul: "Kalkulus"
     },
     {
         name: "Ultach Enri, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0001018108",
         email: "ultach@staff.unsika.ac.id",
-        image: "assets/img/dosen/BU ULTACH.webp"
+        image: "assets/img/dosen/BU ULTACH.webp",
+        matkul: "-"
     },
     {
         name: "Yuyun Umaidah, M.Kom.",
         role: "Dosen Informatika",
         nidn: "0005088303",
         email: "yuyun.umaidah@unsika.ac.id",
-        image: "assets/img/dosen/BU YUYUN.webp"
+        image: "assets/img/dosen/BU YUYUN.webp",
+        matkul: "Basis Data, Data Mining"
     },
     {
         name: "Taufiq Paribo Pane, S.T.",
@@ -568,6 +614,17 @@ function createLecturerCard(lecturer) {
                             <p>${lecturer.email || '-'}</p>
                         </div>
                     </div>
+
+                    <div class="dosen-card-item">
+                        <div class="dosen-card-icon">
+                            <img src="assets/img/icon/Icon-matkul.svg" alt="">
+                        </div>
+
+                        <div class="dosen-card-info-content">
+                            <h4>Mata Kuliah</h4>
+                            <p>${lecturer.matkul || '-'}</p>
+                        </div>
+                    </div>
                     ` : ''}
 
                 </div>
@@ -611,6 +668,7 @@ function updateLecturers() {
             (lecturer.email && lecturer.email.toLowerCase().includes(searchText)) ||
             (lecturer.nidn && lecturer.nidn.toLowerCase().includes(searchText)) ||
             (lecturer.role && lecturer.role.toLowerCase().includes(searchText)) ||
+            (lecturer.matkul && lecturer.matkul.toLowerCase().includes(searchText)) ||
             (lecturer.tugas && lecturer.tugas.toLowerCase().includes(searchText));
 
         const matchesRole =
