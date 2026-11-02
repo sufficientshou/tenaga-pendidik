@@ -157,7 +157,7 @@ const lecturers = [
         nidn: "0402047903",
         email: "adeandri@unsika.ac.id",
         image: "assets/img/dosen/PA ADE ANDRI.webp",
-        matkul: "Technopreneur"
+        matkul: "Technopreneur, Sistem Informasi Akuntansi dan Keuangan"
     },
     {
         name: "Adhi Rizal, S.Pd., M.T.",
@@ -173,7 +173,7 @@ const lecturers = [
         nidn: "0015069302",
         email: "agung@unsika.ac.id",
         image: "assets/img/dosen/PA AGUNG.webp",
-        matkul: "Jaringan Komputer, A/B Testing"
+        matkul: "Jaringan Komputer, A/B Testing, Pengantar Cloud Computing"
     },
     {
         name: "Aji Primajaya, S.Si., M.Kom.",
@@ -181,7 +181,7 @@ const lecturers = [
         nidn: "0026048706",
         email: "aji.primajaya@staff.unsika.ac.id",
         image: "assets/img/dosen/PA AJI.webp",
-        matkul: "Capstone Project, Data Visualisasi"
+        matkul: "Capstone Project, Data Visualisasi, Pengantar Cloud Computing"
     },
     {
         name: "Apriade Voutama, M.Kom.",
@@ -189,7 +189,7 @@ const lecturers = [
         nidn: "0004049401",
         email: "apriade.voutama@staff.unsika.ac.id",
         image: "assets/img/dosen/PA APRIADE.webp",
-        matkul: "-"
+        matkul: "Etika Profesi, Pemrograman Animasi dan Multimedia"
     },
     {
         name: "Aries Suharso, S.Si., M.Kom.",
@@ -197,7 +197,7 @@ const lecturers = [
         nidn: "0422037701",
         email: "aries.suharso@staff.unsika.ac.id",
         image: "assets/img/dosen/PA ARIES.webp",
-        matkul: "Blockchain, Etika Profesi"
+        matkul: "Blockchain, Etika Profesi, Kapita Selekta Ilmu Komputer"
     },
     {
         name: "Arip Solehudin, M.Kom.",
@@ -205,7 +205,7 @@ const lecturers = [
         nidn: "0016048902",
         email: "arip.solehudin@unsika.ac.id",
         image: "assets/img/dosen/PA ARIF.webp",
-        matkul: "Cloud Computing"
+        matkul: "Cloud Computing, Pengantar Cloud Computing"
     },
     {
         name: "Asep Jamaludin, S.Si., M.Kom.",
@@ -221,7 +221,7 @@ const lecturers = [
         nidn: "0415098003",
         email: "azhari.ali@unsika.ac.id",
         image: "assets/img/dosen/PA AZHARI.webp",
-        matkul: "-"
+        matkul: "Organisasi dan Arsitektur Komputer, Enterprise Resource Planning"
     },
     {
         name: "Betha Nurina Sari, M.Kom.",
@@ -229,7 +229,7 @@ const lecturers = [
         nidn: "0023108901",
         email: "betha.nurina@staff.unsika.ac.id",
         image: "assets/img/dosen/BU BETHA.webp",
-        matkul: "Basis Data, Data Mining"
+        matkul: "Basis Data, Data Mining, Text Mining"
     },
     {
         name: "Carudin, M.Kom.",
@@ -245,7 +245,7 @@ const lecturers = [
         nidn: "0020058305",
         email: "chaerur.rozikin@staff.unsika.ac.id",
         image: "assets/img/dosen/PA CHAERUR.webp",
-        matkul: "Internet of Things, Data Engineering"
+        matkul: "Internet of Things, Data Engineering, Enterprise Resource Planning"
     },
     {
         name: "Dadang Yusup, M.Kom.",
@@ -261,7 +261,7 @@ const lecturers = [
         nidn: "0422047101",
         email: "didi.juardi@staff.unsika.ac.id",
         image: "assets/img/dosen/PA DIDI.webp",
-        matkul: "Organisasi dan Arsitektur Komputer, Etika Profesi, Ethical Hacking"
+        matkul: "Organisasi dan Arsitektur Komputer, Etika Profesi, Ethical Hacking, IT Governance"
     },
     {
         name: "Dr. Oman Komarudin, S.Si., M.Kom.",
@@ -269,7 +269,7 @@ const lecturers = [
         nidn: "0406047702",
         email: "oman@unsika.ac.id",
         image: "assets/img/dosen/PA OMAN.webp",
-        matkul: "Pengenalan Pemrograman"
+        matkul: "Pengenalan Pemrograman, Enterprise Resource Planning"
     },
     {
         name: "E. Haodudin Nurkifli, M.Cs., Ph.D.",
@@ -277,7 +277,7 @@ const lecturers = [
         nidn: "0003048503",
         email: "dudi.nurkifli@staff.unsika.ac.id",
         image: "assets/img/dosen/PA HAO.webp",
-        matkul: "Organisasi dan Arsitektur Komputer, Cloud Computing, Network Security, Kriptografi"
+        matkul: "Organisasi dan Arsitektur Komputer, Cloud Computing, Network Security, Kapita Selekta Ilmu Komputer"
     },
     {
         name: "Garno, M.Kom.",
@@ -285,7 +285,7 @@ const lecturers = [
         nidn: "0029017806",
         email: "garno@staff.unsika.ac.id",
         image: "assets/img/dosen/PA GARNO.webp",
-        matkul: "Komputer dan Masyarakat"
+        matkul: "Komputer dan Masyarakat, Organisasi dan Arsitektur Komputer"
     },
     {
         name: "H. Bagja Nugraha, S.T., M.Kom.",
@@ -293,7 +293,7 @@ const lecturers = [
         nidn: "0012108501",
         email: "bagja.nugraha@staff.unsika.ac.id",
         image: "assets/img/dosen/PA BAGJA.webp",
-        matkul: "-"
+        matkul: "Pengantar Kecerdasan Buatan, Integrasi Aplikasi Korporasi, Analisis dan Perancangan Sistem Informasi"
     },
     {
         name: "Hannie, M.Kom.",
@@ -301,7 +301,7 @@ const lecturers = [
         nidn: "0430088205",
         email: "hannie@staff.unsika.ac.id",
         image: "assets/img/dosen/BU HANNIE.webp",
-        matkul: "-"
+        matkul: "Manajemen Proses Bisnis, Etika Profesi dan Profesional, IT in Financial Market, Hukum Paten & Merk"
     },
     {
         name: "Intan Purnamasari, M.Kom.",
@@ -326,7 +326,7 @@ const lecturers = [
         nidnLabel: "NIP",
         email: "irfan.sriyono@staff.unsika.ac.id",
         image: "assets/img/dosen/PA IRFAN.webp",
-        matkul: "Matematika Diskrit, Pemrograman Berbasis Mobile, Internet of Things"
+        matkul: "Matematika Diskrit, Pemrograman Berbasis Mobile, Internet of Things, Pengantar Kecerdasan Buatan"
     },
     {
         name: "Jajam Haerul Jaman, S.E., M.Kom.",
@@ -334,7 +334,7 @@ const lecturers = [
         nidn: "0010117808",
         email: "jajam.haeruljaman@staff.unsika.ac.id",
         image: "assets/img/dosen/PA JAJAM.webp",
-        matkul: "Technopreneur, Data Mining, Rekayasa dan Manajemen Kebutuhan"
+        matkul: "Technopreneur, Data Mining, Rekayasa dan Manajemen Kebutuhan, Analisis Big Data"
     },
     {
         name: "Kamal Prihandani, M.Kom.",
@@ -342,7 +342,7 @@ const lecturers = [
         nidn: "0002069106",
         email: "kamal.prihandani@unsika.ac.id",
         image: "assets/img/dosen/PA KAMAL.webp",
-        matkul: "Framework Pemrograman Web"
+        matkul: "Framework Pemrograman Web, Pengantar Cloud Computing"
     },
     {
         name: "M. Jajuli, M.Si.",
@@ -358,7 +358,7 @@ const lecturers = [
         nidn: "000902830",
         email: "nina.sulistiyowati@unsika.ac.id",
         image: "assets/img/dosen/BU NINA.webp",
-        matkul: "-"
+        matkul: "Pengantar Teknologi Informasi, IS Risk Management"
     },
     {
         name: "Nono Heryana, M.Kom.",
@@ -366,7 +366,7 @@ const lecturers = [
         nidn: "0003038905",
         email: "nono@unsika.ac.id",
         image: "assets/img/dosen/PA NONO.webp",
-        matkul: "-"
+        matkul: "Pengantar Big Data, Sistem Informasi Manajemen, Sistem Operasi"
     },
     {
         name: "Purwantoro, M.Kom.",
@@ -374,7 +374,7 @@ const lecturers = [
         nidn: "0408117702",
         email: "purwantoro.masbro@staff.unsika.ac.id",
         image: "assets/img/dosen/PA PUR.webp",
-        matkul: "Pemrograman Berbasis Mobile"
+        matkul: "Pemrograman Berbasis Mobile, Pengantar Kecerdasan Buatan"
     },
     {
         name: "Ratna Mufidah, M.Kom.",
@@ -382,7 +382,7 @@ const lecturers = [
         nidn: "0004068708",
         email: "ratna.mufidah@cs.unsika.ac.id",
         image: "assets/img/dosen/BU RATNA.webp",
-        matkul: "Algoritma Fundamental, Data Visualisasi"
+        matkul: "Algoritma Fundamental, Data Visualisasi, Pengantar Big Data"
     },
     {
         name: "Rini Mayasari, M.Kom.",
@@ -390,7 +390,7 @@ const lecturers = [
         nidn: "0028059101",
         email: "rini.mayasari@staff.unsika.ac.id",
         image: "assets/img/dosen/BU RINI.webp",
-        matkul: "Komputer dan Masyarakat, Penjaminan Mutu Perangkat Lunak (SQA)"
+        matkul: "Komputer dan Masyarakat, Penjaminan Mutu Perangkat Lunak (SQA), Pengantar Big Data"
     },
     {
         name: "Riza Ibnu Adam, M.Si.",
@@ -406,7 +406,7 @@ const lecturers = [
         nidn: "0030109004",
         email: "siska@staff.unsika.ac.id",
         image: "assets/img/dosen/BU SISKA.webp",
-        matkul: "-"
+        matkul: "Konsep Sistem Informasi, Analisis dan Perancangan Sistem Informasi"
     },
     {
         name: "Sofi Defiyanti, M.Kom.",
@@ -414,7 +414,7 @@ const lecturers = [
         nidn: "0413128502",
         email: "sofi.defiyanti@unsika.ac.id",
         image: "assets/img/dosen/BU SOFI.webp",
-        matkul: "Capstone Project, Data Engineering"
+        matkul: "Capstone Project, Data Engineering, Kapita Selekta Ilmu Komputer"
     },
     {
         name: "Susilawati, M.Si.",
@@ -430,7 +430,7 @@ const lecturers = [
         nidn: "0006079201",
         email: "taufik.ridwan@cs.unsika.ac.id",
         image: "assets/img/dosen/PA TAUFIQ.webp",
-        matkul: "-"
+        matkul: "Algoritma dan Dasar Pemrograman, Pemrograman Berorientasi Objek"
     },
     {
         name: "Tesa Nur Padilah, S.Si., M.Sc.",
@@ -454,7 +454,7 @@ const lecturers = [
         nidn: "0005088303",
         email: "yuyun.umaidah@unsika.ac.id",
         image: "assets/img/dosen/BU YUYUN.webp",
-        matkul: "Basis Data, Data Mining"
+        matkul: "Basis Data, Data Mining, Pengantar Big Data"
     },
     {
         name: "Taufiq Paribo Pane, S.T.",
