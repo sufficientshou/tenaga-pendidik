@@ -663,14 +663,8 @@ function updateLecturers() {
     const selectedCategory = dropdown ? dropdown.querySelector(".dropdown-selected span").innerText.trim().toLowerCase() : "semua dosen";
 
     const filtered = lecturers.filter(lecturer => {
-        const matchesSearch =
-            lecturer.name.toLowerCase().includes(searchText) ||
-            (lecturer.email && lecturer.email.toLowerCase().includes(searchText)) ||
-            (lecturer.nidn && lecturer.nidn.toLowerCase().includes(searchText)) ||
-            (lecturer.role && lecturer.role.toLowerCase().includes(searchText)) ||
-            (lecturer.matkul && lecturer.matkul.toLowerCase().includes(searchText)) ||
-            (lecturer.tugas && lecturer.tugas.toLowerCase().includes(searchText));
-
+        // ponytail: pencarian nama saja; tambah field lain jika butuh multi-field search
+        const matchesSearch = (lecturer.name || "").toLowerCase().includes(searchText);
         const matchesRole =
             selectedCategory === "semua dosen" ||
             lecturer.role.toLowerCase() === selectedCategory;
